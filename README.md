@@ -26,4 +26,6 @@ Lifelong Learner, currently working as budagh kompeni.
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/Novard_sc/">
+  <img align="left" alt="Nogars Instagram" width="20px" src="https://simpleicons.org/?q=instagr/#E4405F" />
+</a>
   
